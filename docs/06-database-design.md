@@ -1,3 +1,9 @@
+---
+id: 06-database-design
+title: Database Design
+sidebar_position: 6
+---
+
 # Database Design
 
 ## Overview

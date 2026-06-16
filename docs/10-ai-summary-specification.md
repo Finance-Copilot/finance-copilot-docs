@@ -1,3 +1,9 @@
+---
+id: 10-ai-summary-specification
+title: AI Summary Specification
+sidebar_position: 10
+---
+
 # AI Executive Summary
 
 ## Overview

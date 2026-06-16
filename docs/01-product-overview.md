@@ -1,3 +1,9 @@
+---
+id: 01-product-overview
+title: Product Overview
+sidebar_position: 1
+---
+
 # Finance Copilot
 
 ## Product Overview

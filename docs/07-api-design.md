@@ -1,3 +1,9 @@
+---
+id: 07-api-design
+title: API Design
+sidebar_position: 7
+---
+
 # API Design
 
 ## Overview

@@ -1,3 +1,9 @@
+---
+id: 12-release-plan
+title: Release Plan
+sidebar_position: 12
+---
+
 # Release Plan
 
 ## Overview

@@ -1,3 +1,9 @@
+---
+id: 02-business-requirement
+title: Business Requirement
+sidebar_position: 2
+---
+
 # Business Requirement
 
 ## Business Background

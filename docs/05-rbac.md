@@ -1,3 +1,9 @@
+---
+id: 05-rbac
+title: RBAC
+sidebar_position: 5
+---
+
 # RBAC Design
 
 ## Overview

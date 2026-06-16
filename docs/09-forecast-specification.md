@@ -1,3 +1,9 @@
+---
+id: 09-forecast-specification
+title: Forecast Specification
+sidebar_position: 9
+---
+
 # Forecast Specification
 
 ## Overview

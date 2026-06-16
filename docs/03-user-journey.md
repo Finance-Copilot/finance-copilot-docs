@@ -1,3 +1,9 @@
+---
+id: 03-user-journey
+title: User Journey
+sidebar_position: 3
+---
+
 # User Journey
 
 ## Overview

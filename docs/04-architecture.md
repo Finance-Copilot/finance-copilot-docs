@@ -1,3 +1,9 @@
+---
+id: 04-architecture
+title: Architecture
+sidebar_position: 4
+---
+
 # Architecture
 
 ## Overview

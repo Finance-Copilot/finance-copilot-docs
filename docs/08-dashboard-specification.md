@@ -1,3 +1,9 @@
+---
+id: 08-dashboard-specification
+title: Dashboard Specification
+sidebar_position: 8
+---
+
 # Dashboard Specification
 
 ## Overview
